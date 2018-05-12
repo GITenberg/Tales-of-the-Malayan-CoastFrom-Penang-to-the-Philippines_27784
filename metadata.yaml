@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32907'
     url: http://www.gutenberg.org/2009/agents/32907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27784#Tales-of-the-Malayan-CoastFrom-Penang-to-the-Philippines
 gutenberg_issued: '2009-01-12'
 gutenberg_type: Text
 identifiers:
