@@ -1,0 +1,35 @@
+_repo: Tales-of-the-Malayan-CoastFrom-Penang-to-the-Philippines_27784
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wildman, Rounsevelle
+    birthdate: 1864
+    deathdate: 1901
+    gutenberg_agent_id: '32907'
+    url: http://www.gutenberg.org/2009/agents/32907
+description: ''
+gutenberg_issued: '2009-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27784'
+  lccn: '99001505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Malaya -- Fiction'
+tableOfContents: Baboo's good tiger -- Baboo's pirates -- How we played Robinson Crusoe
+  -- The sarong -- The kris -- The white rajah of Borneo -- Amok! -- Lepas's revenge
+  -- King Solomon's mines -- Busuk -- A crocodile hunt -- A New Year's Day in Malaya
+  -- In the burst of the southwest monsoon -- A pig hunt on Mount Ophir -- In the
+  court of Johore -- In the Golden Chersonese -- A fight with Illanum pirates.
+title: 'Tales of the Malayan Coast
+
+  From Penang to the Philippines'
+url: http://www.gutenberg.org/ebooks/27784
